@@ -14,3 +14,15 @@
 - 🐍 Experienced in **Python** and **C++** programming  
 - 🧮 Strong foundation in **Mathematics** — Statistics, Probability, and Linear Algebra  
 - 🌱 Currently learning **Deep Learning and AI model optimization techniques**
+
+
+  ## ⚙️ Tech Stack
+
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| 💻 Languages | Python, SQL, C++ |
+| 📊 Data Analytics | Power BI, Excel, Pandas, NumPy |
+| 🤖 Machine Learning |  Scikit-learn |
+| 🌐 Web | Flask, HTML, CSS |
+| 💾 Databases | MySQL |
+| 🛠 Dev Tools | Git, VS Code, Render, Google Colab |
