@@ -26,3 +26,14 @@
 | 🌐 Web | Flask, HTML, CSS |
 | 💾 Databases | MySQL |
 | 🛠 Dev Tools | Git, VS Code, Render, Google Colab |
+
+
+## 🌍 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sharmistha-hui/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="sharmisthahui94@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  </p>
